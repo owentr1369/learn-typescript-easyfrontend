@@ -1,1 +1,3 @@
-console.log("TypeScript")
+var channelName: string = 'Easy';
+
+console.log('TypeScript ' + channelName);
